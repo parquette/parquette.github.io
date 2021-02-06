@@ -6,7 +6,7 @@ description: "The ultra-high-speed Parquet browser."
 keywords: "parquet, apache, arrow, csv, big data, analytics, sql"
 skills: "A lightning-fast parquet reader"
 formspreeid: xzbkwabq
-meta_author: LastName FirstName
+meta_author: parquette.net
 
 # Google webmaster tools
 google_verify:
@@ -40,17 +40,17 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/parquette
   - title: github
     url: http://github.com/parquette
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/parquette
 
 # Postal address (add as many lines as necessary)
 address:
   - line: Boston & London
 
 # Credits content
-credits: 'Freelancer Bootstrap'
+credits: 'Swift & Rust'
 
 # Build settings
 markdown: kramdown
